@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kanidaking
+- 👋 Hi, I’m @kanidaking, a CS student at the University of Texas @ Austin
 - 👀 I’m interested in financial engineering and how to use software and machine learning to become the best there is.
 - 🌱 I’m currently learning stochaistic processes.
 - 💞️ I’m looking to collaborate in the quant field.
